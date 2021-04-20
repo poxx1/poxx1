@@ -1,6 +1,6 @@
-- 👋 Hello, im Julian or how my friends call me @poxx1
-- 👀 I’m interested in .NET proyects and Automations
-- 🌱 I’m currently learning MVC & ASP.NET Core
+- 👋 Hello, im Julian or how my friends call me Poxi
+- 👀 I’m an SRE interested in .NET Core / Automations.
+- 🌱 I’m currently learning MVC & ASP.NET Core + React.Js
 - 💞️ I’m looking to collaborate on Open Source Proyects.
 - 📫 How to reach me: julianlastra.kz@gmail.com 
 
